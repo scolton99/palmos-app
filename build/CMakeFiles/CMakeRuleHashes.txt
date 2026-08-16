@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-e6c46fce2512bcfeb1fc4cea7502d04b CMakeFiles/HelloWorld-Palm-Resource-Code
-e6c46fce2512bcfeb1fc4cea7502d04b CMakeFiles/Resource-HelloWorld
-7d963e195e143c4715f05fb586286cc8 HelloWorld.prc
-b93361353fb2278b8d025234738ce10b HelloWorld.ro

@@ -1,5 +1,0 @@
-/home/scolton/Code/Palm/cmake/template/build/CMakeFiles/HelloWorld-PalmOS-Executable.dir
-/home/scolton/Code/Palm/cmake/template/build/CMakeFiles/Resource-HelloWorld.dir
-/home/scolton/Code/Palm/cmake/template/build/CMakeFiles/HelloWorld-Palm-Resource-Code.dir
-/home/scolton/Code/Palm/cmake/template/build/CMakeFiles/edit_cache.dir
-/home/scolton/Code/Palm/cmake/template/build/CMakeFiles/rebuild_cache.dir
