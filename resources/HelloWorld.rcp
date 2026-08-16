@@ -19,7 +19,7 @@ ALERT ID HelloWorldAlert
 INFORMATION
 BEGIN
     TITLE "Message"
-    MESSAGE "Hello World!"
+    MESSAGE "Hello Worlddddd!"
     BUTTONS "OK"
 END
 
