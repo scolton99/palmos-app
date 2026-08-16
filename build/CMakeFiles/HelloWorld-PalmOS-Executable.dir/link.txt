@@ -1,0 +1,1 @@
+/usr/bin/m68k-palmos-gcc "CMakeFiles/HelloWorld-PalmOS-Executable.dir/src/Events.c.obj" "CMakeFiles/HelloWorld-PalmOS-Executable.dir/src/HelloWorld.c.obj" -o HelloWorld-PalmOS-Executable

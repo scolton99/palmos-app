@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/scolton/Code/Palm/cmake/template/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

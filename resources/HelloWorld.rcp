@@ -1,0 +1,28 @@
+#include "ResourceIDs.h"
+
+MENU ID HelloWorldMenuBar
+BEGIN
+    PULLDOWN "Pulldown"
+    BEGIN
+        MENUITEM "Beep" ID FirstBeep
+    END
+END
+
+FORM ID HelloWorldForm AT (0 0 160 160)
+MENUID 1000
+BEGIN
+    TITLE "Hello World"
+    BUTTON "Button" ID HelloWorldButton AT (59 91 36 12) LEFTANCHOR FRAME FONT 0
+END
+
+ALERT ID HelloWorldAlert
+INFORMATION
+BEGIN
+    TITLE "Message"
+    MESSAGE "Hello World!"
+    BUTTONS "OK"
+END
+
+ICON "Icon.pbitm"
+
+VERSION ID 1000 "1.0"
