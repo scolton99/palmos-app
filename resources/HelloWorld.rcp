@@ -12,7 +12,7 @@ FORM ID HelloWorldForm AT (0 0 160 160)
 MENUID 1000
 BEGIN
     TITLE "Hello World"
-    BUTTON "Buttonnm" ID HelloWorldButton AT (59 91 36 12) LEFTANCHOR FRAME FONT 0
+    BUTTON "Bu" ID HelloWorldButton AT (59 91 36 12) LEFTANCHOR FRAME FONT 0
 END
 
 ALERT ID HelloWorldAlert
